@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\bin\Debug\同学信息查询系统.exe.config
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\bin\Debug\同学信息查询系统.exe
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\bin\Debug\同学信息查询系统.pdb
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.Form1.resources
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.exe
+C:\Users\Administrator\Desktop\VSCode\同学信息查询系统\同学信息查询系统\obj\Debug\同学信息查询系统.pdb
